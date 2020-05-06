@@ -1,0 +1,3 @@
+rootProject.name='Animated Button'
+include ':app'
+include ':library'
